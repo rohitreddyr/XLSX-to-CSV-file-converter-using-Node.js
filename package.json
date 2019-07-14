@@ -1,0 +1,17 @@
+{
+  "name": "kestenodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "code.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dateformat": "^3.0.3",
+    "fast-csv": "^2.5.0",
+    "jsonexport": "^2.4.1",
+    "xlsx": "^0.14.3"
+  }
+}
