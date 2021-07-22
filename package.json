@@ -12,6 +12,6 @@
     "dateformat": "^3.0.3",
     "fast-csv": "^2.5.0",
     "jsonexport": "^2.4.1",
-    "xlsx": "^0.14.3"
+    "xlsx": "^0.17.0"
   }
 }
